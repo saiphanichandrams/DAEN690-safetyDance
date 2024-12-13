@@ -1,4 +1,4 @@
-############################################## THE SAFETY DANCE ##############################################
+############################################## THE SAFETY DANCE ##############################################<br>
 ################################## Amazon Review Safety Analysis Pipeline ####################################
 ######################### By Jonathan King, DAEN690 - Fall 2024 - George Mason University ####################
 This program is a large-scale Amazon review analysis tool that downloads, preprocesses, and analyzes review 
