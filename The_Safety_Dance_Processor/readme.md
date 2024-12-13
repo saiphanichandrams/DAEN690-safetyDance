@@ -1,6 +1,6 @@
-**############################THE SAFETY DANCE##############################**</br>
-################################## Amazon Review Safety Analysis Pipeline ####################################
-######################### By Jonathan King, Aakash Boenal,Utkarsh Ganjihal, SaiPhani Chandra Vuppala, DAEN690 - Fall 2024 - George Mason University ####################
+**THE SAFETY DANCE**</br>
+############### Amazon Review Safety Analysis Pipeline ##########
+############# By Jonathan King, Aakash Boenal,Utkarsh Ganjihal, SaiPhani Chandra Vuppala, DAEN690 - Fall 2024 - George Mason University ####################
 This program is a large-scale Amazon review analysis tool that downloads, preprocesses, and analyzes review 
 data to identify potentially unsafe products. The tool employs both heuristic analysis and machine learning 
 (Isolation Forest) to flag products based on various features, such as ratings, sentiment, and safety-related 
