@@ -6,7 +6,8 @@ data to identify potentially unsafe products. The tool employs both heuristic an
 (Isolation Forest) to flag products based on various features, such as ratings, sentiment, and safety-related 
 terms.
 
-Developed as a Data Analytics Capstone Project (DAEN690 - Fall 2024) by Jonathan King, Aakash Boenal, Utkarsh Ganjihal, SaiPhani Chandra Vuppala, George Mason University, 
+Developed as a Data Analytics Capstone Project (DAEN690 - Fall 2024) by Jonathan King, Aakash Boenal, 
+Utkarsh Ganjihal, SaiPhani Chandra Vuppala, George Mason University, 
 this program is optimized for large datasets and advanced analysis.
 
 Partnered with NIRA, Inc for real-world analysis.
